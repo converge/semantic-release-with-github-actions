@@ -1,5 +1,5 @@
 # Using semantic-release with GitHub Actions
-# testing
+# testing 1
 
 > This is a demo of how to automatically publish npm packages to the npm registry using GitHub Actions and `semantic-release`.
 
